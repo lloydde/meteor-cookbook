@@ -1,12 +1,8 @@
-  
-
-
-------------------------------------------------------------------
-### Accounts
+## Accounts
 
 **Q: Is there any documentation on the User Profile?**  
 
-The basic user profile looks like the following object:
+The basic user profile is structured like the following JSON document:
 ````js
 {
   username: 'jdoe',  

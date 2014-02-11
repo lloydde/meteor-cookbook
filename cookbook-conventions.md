@@ -1,6 +1,14 @@
+## Cookbook Conventions
+
+
 Hello, and welcome to the Meteor Cookbook.
 
 Before diving into this cookbook, please be aware of the following two conventions, which are used throughout these tutorials and examples.
+
+
+#### Browsers and Operating Systems  
+Generally speaking, the Cookbook caters to a Mac development environment, and WebKit browsers.  The official Meteor position is that Meteor is going to support Windows and SQL databases in version 1.1 or later.  The Meteor Cookbook is focused on Meteor 1.0, then. 
+
 
 #### The OSI Model  
 

@@ -16,7 +16,8 @@ Template.homePage.resized = function(){
  
   return Session.get('resize');
 }; 
-````js
+````
+
 
 ````html
 <template name="homePage">
